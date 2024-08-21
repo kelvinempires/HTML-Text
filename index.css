@@ -1,0 +1,40 @@
+body {
+  background-color: beige;
+}
+div {
+  background-color: rgba(0, 255, 123, 0.991);
+}
+button {
+  background-color: aqua;
+  border-radius: 0cap;
+}
+/* class selector */
+.btn {
+  color: green;
+}
+/* id selector */
+#btn-right {
+  background-color: #16a34a;
+  color: white;
+  padding: 8px 25px;
+  border:none;
+  border-radius: 18px;
+  margin: 10px;
+  cursor: pointer;
+  /* margin: 10px; */
+
+}
+#btn-left {
+  background-color: white;
+  color: #16a34a;
+  padding: 8px 25px;
+  border: 1px solid;
+  border-radius: 18px;
+  margin: 10px;
+  cursor: pointer;
+  /* cursor: grab; */
+  /* cursor: grabbing; */
+  /* cursor: copy; */
+  /* cursor: not-allowed; */
+  /* margin: 10px; */
+}
